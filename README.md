@@ -73,7 +73,7 @@
 
 
 ![Profile Views](https://komarev.com/ghpv/?username=iamntihero&color=blueviolet)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+![](https://hit.yhype.me/github/profile?user_id=190164660).
 <a href="https://app.daily.dev/antihero62"><img src="https://api.daily.dev/devcards/v2/BlJaPDqpTB6FBcztCO4RT.png?type=default&r=yvk" width="356" alt="Anti Hero's Dev Card"/></a>
 ![Metrics](https://metrics.lecoq.io/IamAntiHero?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKarachi)
 
