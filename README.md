@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm IamAntiHero
+# 👋 Hi there, I'm AntiHero
 
 ## 🚀 About Me
 I'm a passionate programmer and problem solver with a strong foundation in Python and C++. Currently expanding my horizons by learning JavaScript and Docker. I believe in writing clean, efficient code and am always eager to learn new technologies.
