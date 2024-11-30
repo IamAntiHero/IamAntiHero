@@ -71,6 +71,13 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=IamAntiHero&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)  
 [![Spotify Activity](https://spotify-github-profile.kittinanx.com/api/view?uid=317zpbdme4djgisqgtcqyj4qyd6e&cover_image=true&theme=default&show_offline=false&background_color=282a36&interchange=true&bar_color=ffa200&bar_color_cover=false)](https://open.spotify.com/track/2HF9ZpV8bdc4qFBAP5VVsJ)  
 
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IamAntiHero&theme=dracula)](https://wakatime.com/@IamAntiHero)
+![Profile Views](https://komarev.com/ghpv/?username=IamAntiHero&color=blueviolet)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+<a href="https://app.daily.dev/AntiHero"><img src="https://api.daily.dev/devcards/YOUR_CARD_ID.png?r=XXX" width="400" alt="AntiHero's Dev Card"/></a>
+![Metrics](https://metrics.lecoq.io/IamAntiHero?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&notable.repositories=false&config.timezone=Europe%2FParis)
+
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=IamAntiHero&theme=dracula&no-bg=true&no-frame=true)  
 [![GitHub followers](https://img.shields.io/github/followers/IamAntiHero.svg?style=social&label=Follow&maxAge=3600)](https://github.com/IamAntiHero?tab=followers) 
   
