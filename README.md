@@ -71,7 +71,7 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=IamAntiHero&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)  
 [![Spotify Activity](https://spotify-github-profile.kittinanx.com/api/view?uid=317zpbdme4djgisqgtcqyj4qyd6e&cover_image=true&theme=default&show_offline=false&background_color=282a36&interchange=true&bar_color=ffa200&bar_color_cover=false)](https://open.spotify.com/track/2HF9ZpV8bdc4qFBAP5VVsJ)  
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IamAntiHero&theme=dracula)](https://wakatime.com/@IamAntiHero)
+
 ![Profile Views](https://komarev.com/ghpv/?username=iamntihero&color=blueviolet)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 <a href="https://app.daily.dev/antihero62"><img src="https://api.daily.dev/devcards/v2/BlJaPDqpTB6FBcztCO4RT.png?type=default&r=yvk" width="356" alt="Anti Hero's Dev Card"/></a>
@@ -82,7 +82,7 @@
   
 ## Contact me
 
-<a href="https://t.me/AntiHero" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="AntiHero" height="40" width="50"/></a>
+<a href="https://t.me/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="AntiHero" height="40" width="50"/></a>
 <a href="https://stackoverflow.com/users/28560684/antihero" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="28560684" height="40" width="50"/></a>
 <a href="mailto:antihero.void@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="dev@AntiHero.eu.org" height="40" width="50"/></a>
 ##### For the others way to contact me, [head to my website](https://AntiHero.dev/socials)
