@@ -74,7 +74,13 @@
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IamAntiHero&theme=dracula)](https://wakatime.com/@IamAntiHero)
 ![Profile Views](https://komarev.com/ghpv/?username=IamAntiHero&color=blueviolet)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-<a href="https://app.daily.dev/antihero62"><img src="https://api.daily.dev/devcards/antihero62.png" width="400" alt="AntiHero's Dev Card"/></a>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/IamAntiHero/IamAntiHero/main/profile.png" width="96" height="96" alt="AntiHero's profile" style="border-radius: 50%; margin-bottom: 20px;" />
+  <br/>
+  <a href="https://app.daily.dev/antihero62">
+    <img src="https://api.daily.dev/devcards/antihero62.png" width="400" alt="AntiHero's Dev Card"/>
+  </a>
+</div>
 ![Metrics](https://metrics.lecoq.io/IamAntiHero?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKarachi)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=IamAntiHero&theme=dracula&no-bg=true&no-frame=true)  
