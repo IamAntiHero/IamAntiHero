@@ -1,56 +1,52 @@
-# 👋 Hi there, I'm AntiHero
+# 👋 Hi there, I'm IamAntiHero
 
 ## 🚀 About Me
-I'm a passionate developer who loves to create and innovate. My journey in technology is driven by curiosity and a desire to solve real-world problems through code.
+I'm a passionate programmer and problem solver with a strong foundation in Python and C++. Currently expanding my horizons by learning JavaScript and Docker. I believe in writing clean, efficient code and am always eager to learn new technologies.
 
 ## 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&color=informational)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&color=informational)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&color=informational)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamAntiHero&show_icons=true&theme=dark)
 
 ## 🌟 Featured Projects
+### Python Discord Bot
+A versatile Discord bot built with Python, featuring moderation tools and custom commands.
+- [Link to Repository](https://github.com/IamAntiHero/SparkBrainBot)
 
-### Project 1
-A brief description of your awesome project goes here. What problem does it solve? What technologies did you use?
-- [Link to Repository](#)
-
-### Project 2
-Another amazing project you've worked on. What makes it special?
-- [Link to Repository](#)
+### C++ Projects
+A collection of C++ projects showcasing problem-solving skills and algorithm implementations.
+- [Link to Repository](https://github.com/IamAntiHero/CppProjects)
 
 ## 🌱 I'm Currently Learning
-- Advanced Machine Learning Algorithms
-- Cloud Architecture
-- Web3 Development
+- JavaScript & Modern Web Development
+- Docker & Container Technologies
+- Advanced Python Concepts
+- Data Structures & Algorithms
 
 ## 💬 Let's Connect!
-- LinkedIn: [Your LinkedIn](#)
-- Twitter: [@YourTwitter](#)
-- Portfolio: [yourwebsite.com](#)
+- GitHub: [@IamAntiHero](https://github.com/IamAntiHero)
+- Join my coding journey!
 
 ## 📈 Weekly Coding Stats
-<!--START_SECTION:waka-->
 ```text
-JavaScript   10 hrs 40 mins  ███████████░░░░░░░  60.45%
-Python       4 hrs 32 mins   ██████░░░░░░░░░░░░  25.65%
-Docker       2 hrs 15 mins   ███░░░░░░░░░░░░░░░  13.90%
+Python       8 hrs 40 mins   ███████████░░░░░░░  50.45%
+C++          6 hrs 32 mins   ████████░░░░░░░░░░  35.65%
+JavaScript   2 hrs 15 mins   ███░░░░░░░░░░░░░░░  13.90%
 ```
-<!--END_SECTION:waka-->
 
 ---
 
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How I Built a Scalable Web App](#)
-- [Best Practices for Clean Code](#)
-- [Understanding Design Patterns](#)
-<!-- BLOG-POST-LIST:END -->
+### 🎯 Current Focus
+- Building more complex Python applications
+- Learning web development fundamentals
+- Exploring software architecture patterns
+- Contributing to open-source projects
 
 ---
 
-⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)
+⭐️ From [IamAntiHero](https://github.com/IamAntiHero)
