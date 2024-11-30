@@ -75,8 +75,7 @@
 ![Profile Views](https://komarev.com/ghpv/?username=IamAntiHero&color=blueviolet)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 <a href="https://app.daily.dev/AntiHero"><img src="https://api.daily.dev/devcards/YOUR_CARD_ID.png?r=XXX" width="400" alt="AntiHero's Dev Card"/></a>
-![Metrics](https://metrics.lecoq.io/IamAntiHero?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&notable.repositories=false&config.timezone=Europe%2FParis)
-
+![Metrics](https://metrics.lecoq.io/IamAntiHero?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKarachi)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=IamAntiHero&theme=dracula&no-bg=true&no-frame=true)  
 [![GitHub followers](https://img.shields.io/github/followers/IamAntiHero.svg?style=social&label=Follow&maxAge=3600)](https://github.com/IamAntiHero?tab=followers) 
