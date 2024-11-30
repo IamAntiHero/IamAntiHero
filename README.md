@@ -14,7 +14,7 @@ I'm a passionate programmer and problem solver with a strong foundation in Pytho
           <br/>
           <b>Time - Frieren: Beyond Journey's End</b>
           <br/>
-          <i>EVAN CALL</i>
+          <i>Rustage</i>
         </a>
       </td>
     </tr>
