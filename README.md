@@ -64,16 +64,10 @@
 
 ![AntiHero's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IamAntiHero&theme=dracula&line=50fa7b&point=ff79c6&area_color=f1fa8c&bg_color=282a36&color=8be9fd&title_color=8be9fd&area=true&hide_border=true&radius=8)
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://app.daily.dev/antihero62"><img src="https://api.daily.dev/devcards/v2/BlJaPDqpTB6FBcztCO4RT.png?type=default&r=yvk" width="356" alt="Anti Hero's Dev Card"/></a>
-    </td>
-    <td width="50%">
-      [![Spotify Activity](https://spotify-github-profile.kittinanx.com/api/view?uid=317zpbdme4djgisqgtcqyj4qyd6e&cover_image=true&theme=default&show_offline=false&background_color=282a36&interchange=true&bar_color=ffa200&bar_color_cover=false)](https://open.spotify.com/track/2HF9ZpV8bdc4qFBAP5VVsJ)
-    </td>
-  </tr>
-</table>
+
+<a href="https://app.daily.dev/antihero62"><img src="https://api.daily.dev/devcards/v2/BlJaPDqpTB6FBcztCO4RT.png?type=default&r=yvk" width="356" alt="Anti Hero's Dev Card"/></a>
+[![Spotify Activity](https://spotify-github-profile.kittinanx.com/api/view?uid=317zpbdme4djgisqgtcqyj4qyd6e&cover_image=true&theme=default&show_offline=false&background_color=282a36&interchange=true&bar_color=ffa200&bar_color_cover=false)](https://open.spotify.com/track/2HF9ZpV8bdc4qFBAP5VVsJ)
+
 
 ![Profile Views](https://komarev.com/ghpv/?username=iamntihero&color=blueviolet)
 ![](https://hit.yhype.me/github/profile?user_id=190164660)
