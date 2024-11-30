@@ -5,8 +5,22 @@ I'm a passionate programmer and problem solver with a strong foundation in Pytho
 
 
 ### 🎵 Currently Vibing To
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=whtevrusr)](https://open.spotify.com/track/2HF9ZpV8bdc4qFBAP5VVsJ)
 
+<div align="center">
+
+  <a href="https://open.spotify.com/track/2HF9ZpV8bdc4qFBAP5VVsJ">
+
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=qr9lpdwzwqb5q8qr9lpdwzwq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" 
+
+         width="300" 
+
+         alt="Spotify Now Playing"
+
+    />
+
+  </a>
+
+</div>
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&color=informational)
