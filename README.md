@@ -90,7 +90,7 @@
 
 <a href="https://t.me/AntiHero" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="AntiHero" height="40" width="50"/></a>
 <a href="https://stackoverflow.com/users/28560684/antihero" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="28560684" height="40" width="50"/></a>
-<a href="mailto:dev@AntiHero.eu.org" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="dev@AntiHero.eu.org" height="40" width="50"/></a>
+<a href="mailto:antihero.void@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="dev@AntiHero.eu.org" height="40" width="50"/></a>
 ##### For the others way to contact me, [head to my website](https://AntiHero.dev/socials)
 
 ---
