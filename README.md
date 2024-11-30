@@ -69,7 +69,7 @@
 ![Most Used Languages | Reload the page if you see this :)](https://github-readme-stats.vercel.app/api/top-langs/?username=IamAntiHero&langs_count=10&layout=compact&theme=merko&bg_color=30,833ab4,fd1d1d,fcb045&title_color=fff&icon_color=fff&border_color=000&text_color=70ffff)  
 ![AntiHero's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IamAntiHero&theme=dracula&line=50fa7b&point=ff79c6&area_color=f1fa8c&bg_color=282a36&color=8be9fd&title_color=8be9fd&area=true&hide_border=true&radius=8)  
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=IamAntiHero&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)  
-[![Spotify Activity](https://spotify-github-profile.kittinanx.com/api/view?uid=2HF9ZpV8bdc4qFBAP5VVsJ&cover_image=true&theme=default&show_offline=false&background_color=282a36&interchange=true&bar_color=ffa200&bar_color_cover=false)](https://open.spotify.com/track/2HF9ZpV8bdc4qFBAP5VVsJ)  
+[![Spotify Activity](https://spotify-github-profile.kittinanx.com/api/view?uid=317zpbdme4djgisqgtcqyj4qyd6e&cover_image=true&theme=default&show_offline=false&background_color=282a36&interchange=true&bar_color=ffa200&bar_color_cover=false)](https://open.spotify.com/track/2HF9ZpV8bdc4qFBAP5VVsJ)  
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=IamAntiHero&theme=dracula&no-bg=true&no-frame=true)  
 [![GitHub followers](https://img.shields.io/github/followers/IamAntiHero.svg?style=social&label=Follow&maxAge=3600)](https://github.com/IamAntiHero?tab=followers) 
