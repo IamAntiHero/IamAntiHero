@@ -3,6 +3,11 @@
 ## 🚀 About Me
 I'm a passionate programmer and problem solver with a strong foundation in Python and C++. Currently expanding my horizons by learning JavaScript and Docker. I believe in writing clean, efficient code and am always eager to learn new technologies.
 
+
+### 🎵 Currently Vibing To
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=whtevrusr)](https://open.spotify.com/track/2HF9ZpV8bdc4qFBAP5VVsJ)
+
+
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&color=informational)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&color=informational)
