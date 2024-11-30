@@ -72,7 +72,7 @@
 [![Spotify Activity](https://spotify-github-profile.kittinanx.com/api/view?uid=317zpbdme4djgisqgtcqyj4qyd6e&cover_image=true&theme=default&show_offline=false&background_color=282a36&interchange=true&bar_color=ffa200&bar_color_cover=false)](https://open.spotify.com/track/2HF9ZpV8bdc4qFBAP5VVsJ)  
 
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IamAntiHero&theme=dracula)](https://wakatime.com/@IamAntiHero)
-![Profile Views](https://komarev.com/ghpv/?username=IamAntiHero&color=blueviolet)
+![Profile Views](https://komarev.com/ghpv/?username=iamntihero&color=blueviolet)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 <a href="https://app.daily.dev/antihero62"><img src="https://api.daily.dev/devcards/v2/BlJaPDqpTB6FBcztCO4RT.png?type=default&r=yvk" width="356" alt="Anti Hero's Dev Card"/></a>
 ![Metrics](https://metrics.lecoq.io/IamAntiHero?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKarachi)
