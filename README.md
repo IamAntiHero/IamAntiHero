@@ -30,19 +30,12 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=IamAntiHero&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IamAntiHero&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IamAmAntiHero&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IamAntiHero&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/916738915262681129?theme=dark&bg=282a36&borderRadius=30&animated=true&idleMessage=No%20RPC%20activity%20detected&showDisplayName=true)](https://discord.com/users/916738915262681129)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IamAntiHero&count_private=true&show_icons=true&bg_color=30,833ab4,fd1d1d,fcb045&include_all_commits=True&title_color=fff&icon_color=fff&text_color=70ffff" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamAntiHero&theme=dracula&hide_border=true" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IamAntiHero&theme=dracula&line=50fa7b&point=ff79c6&bg_color=282a36&color=8be9fd&title_color=8be9fd&hide_border=true&radius=8" alt="Activity Graph" />
-</div>
 
 ## Contact Me
 
