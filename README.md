@@ -27,6 +27,13 @@
 
 ## GitHub Stats
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=IamAntiHero&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=IamAntiHero&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IamAmAntiHero&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/916738915262681129?theme=dark&bg=282a36&borderRadius=30&animated=true&idleMessage=No%20RPC%20activity%20detected&showDisplayName=true)](https://discord.com/users/916738915262681129)
 
 <div align="center">
