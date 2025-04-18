@@ -33,6 +33,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IamAntiHero&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IamAntiHero&theme=github_dark)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/916738915262681129?theme=dark&bg=282a36&borderRadius=30&animated=true&idleMessage=No%20RPC%20activity%20detected&showDisplayName=true)](https://discord.com/users/916738915262681129)
 
